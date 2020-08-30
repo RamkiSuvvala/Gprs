@@ -86,5 +86,5 @@
 	</div>
 </div>
 <div class="footer_section">
-	<jsp:include page="default/Footer.jsp"/>
+	<jsp:include page="../defaults/Footer.jsp"/>
 </div>
