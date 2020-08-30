@@ -1,5 +1,5 @@
-<%@include file="defaults/Header.jsp" %>
-<%@ include file="defaults/OptionsSections.jsp" %>
+<%@include file="../defaults/Header.jsp" %>
+<%@ include file="../defaults/OptionsSections.jsp" %>
  <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
  <%@ taglib uri="http://java.sun.com/jstl/core" prefix="c" %>
 <div class="table-container" style="margin:0 auto; width:90%">
@@ -45,4 +45,4 @@
 
 
 
-<%@ include file="defaults/Footer.jsp" %>
+<%@ include file="../defaults/Footer.jsp" %>
